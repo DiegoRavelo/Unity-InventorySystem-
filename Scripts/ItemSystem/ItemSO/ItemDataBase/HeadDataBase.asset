@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f78543c4d543449982690086e393a1, type: 3}
+  m_Name: HeadDataBase
+  m_EditorClassIdentifier: 
+  ItemIconLibrary:
+  - {fileID: 21300000, guid: 1907d50a80297f541b6b3e627e5ec0ba, type: 3}
+  - {fileID: 21300000, guid: 90c1738ae13dc4c4b861cb32cf1bc4fd, type: 3}
+  - {fileID: 21300000, guid: 1f23cbb49035e11489b5383fac434d97, type: 3}
+  - {fileID: 21300000, guid: e69bd77e31f1eb64c993ada0694d18e3, type: 3}
+  - {fileID: 21300000, guid: 8ed05f0f2a31acc46b01b3ccba311e65, type: 3}
+  - {fileID: 21300000, guid: 4c54f80125d80a545bf4dfd64fec1abe, type: 3}
+  - {fileID: 21300000, guid: cd26b0c8bd6921441aa77b5a51e76f2f, type: 3}
+  - {fileID: 21300000, guid: dbeae66e7c05724439a06eec8f02f0dc, type: 3}
+  - {fileID: 21300000, guid: 116b5617fc9d1394db337b5465dd1f37, type: 3}
+  - {fileID: 21300000, guid: 2a996dcb155867845bba6919e7efe48a, type: 3}
+  - {fileID: 21300000, guid: fb19d4e34275b2e49aba88a628f90b72, type: 3}
+  - {fileID: 21300000, guid: 5ef58dc4dfc6f08469b9e7fcbcab6f05, type: 3}
+  - {fileID: 21300000, guid: a292fca68f35afe4b8eaa408184cf7ab, type: 3}
+  - {fileID: 21300000, guid: f31d54c1a0f217d44ae1bf7b7d2eb68c, type: 3}
+  - {fileID: 21300000, guid: 49bad27329a8b1e40ac5d05cd3dd2138, type: 3}
+  - {fileID: 21300000, guid: 38c3fca551119954aaa00c6671f0530a, type: 3}
+  - {fileID: 21300000, guid: 3b424dfe259b68541b2c262d521d938a, type: 3}
+  - {fileID: 21300000, guid: 83e8a710fdb44594e9d732b55c7c2040, type: 3}
+  - {fileID: 21300000, guid: d1d8d64db7b5b2c459ffd05014f7abc6, type: 3}
+  - {fileID: 21300000, guid: 992a4c3793f5fcf48af21600d24e3bf7, type: 3}
+  - {fileID: 21300000, guid: 42f5d830fb70c8140b5bf49e8f5ddfa4, type: 3}
+  - {fileID: 21300000, guid: 2ede620258b87da479de85468ebbb562, type: 3}
+  - {fileID: 21300000, guid: e8506a65666a5964c9ef3ba9b8d0c0d9, type: 3}
+  - {fileID: 21300000, guid: 22e972c579120554c84dca7d54407adb, type: 3}
+  - {fileID: 21300000, guid: 0395de0e6d58962468cd24a7440dd8c9, type: 3}
+  - {fileID: 21300000, guid: b63dce32b5c05e443b7f9c51de2ddf46, type: 3}
+  - {fileID: 21300000, guid: d1352de65b2124f43aeb6052bfc2ec2f, type: 3}
+  - {fileID: 21300000, guid: 5b0aefd321385044ca4d7fb77a946ad4, type: 3}
+  - {fileID: 21300000, guid: dbcb060d1e21f1c48a31ae70cca694df, type: 3}
+  - {fileID: 21300000, guid: 22bb989eedaf28d4c9d99b79c21b2a32, type: 3}
+  - {fileID: 21300000, guid: 0d0dedfe2fdbd9342a29d48e4de08207, type: 3}
+  - {fileID: 21300000, guid: c37274dadd22b4643b50da2368ab8dbe, type: 3}
+  - {fileID: 21300000, guid: dc3d874211f1dea4b93e52ad0f076ed6, type: 3}
+  - {fileID: 21300000, guid: c9e5f9e0ba572314ea68fcc75741591f, type: 3}
+  - {fileID: 21300000, guid: c63800dd471478846aaaeea1fc11d9f0, type: 3}
+  - {fileID: 21300000, guid: f31cce4bb772b3b43b3b6bbe8ed336d5, type: 3}
+  - {fileID: 21300000, guid: cb487afc59e500343bcd7779f50843e2, type: 3}
+  - {fileID: 21300000, guid: 87cb7002dc9f979419f047c186cca225, type: 3}
+  - {fileID: 21300000, guid: 09c8b073acfdbd5499e733c0298d3b3c, type: 3}
+  - {fileID: 21300000, guid: cc4ab7cc78c7e2a459d5664a1befca9a, type: 3}
+  - {fileID: 21300000, guid: 72625187fd262694e83d3a85eecdd07d, type: 3}
+  - {fileID: 21300000, guid: 5d44d129e5bf04442a0c0d0b6f07ae1c, type: 3}
+  - {fileID: 21300000, guid: 24df5bb11a1aa8b41a94c686a063845a, type: 3}
+  - {fileID: 21300000, guid: 5d56f14fa443f34489814d37c4768c29, type: 3}
+  - {fileID: 21300000, guid: c8422f6159c2353419818e459b3cd757, type: 3}
+  - {fileID: 21300000, guid: f911b3e4ec9a7bb458da242bf27e23d1, type: 3}
+  - {fileID: 21300000, guid: 3745ce878e1ea7b49b0bba8e2583282b, type: 3}
+  - {fileID: 21300000, guid: 1a3f93a6859c7d442a1dc0606176bc86, type: 3}
+  - {fileID: 21300000, guid: 576a9fe90e694c343ac329235d7bfa66, type: 3}
+  - {fileID: 21300000, guid: a3c7c62c27b9a804b9c6699b472aadbe, type: 3}
+  ItemNamesLibrary:
+  - "Capucha de Seda\r"
+  - "Casco del Drag\xF3n Ascendente\r"
+  - "Capucha de Obsidiana\r"
+  - "Yelmo de Caballero\r"
+  - "Casco de Acero Templado\r"
+  - "Capucha Acolchada\r"
+  - "Casco de la Llama Eterna\r"
+  - "Yelmo del Viento Susurrante\r"
+  - "Capucha de Placas\r"
+  - "Casco de Hierro\r"
+  - "Yelmo de la Aurora Estelar\r"
+  - "Capucha de Esmeralda \xC9lfica\r"
+  - "Casco de Batalla\r"
+  - "Capucha del Guardi\xE1n de las Sombras\r"
+  - "Yelmo de \xC9ter Brillante\r"
+  - "Casco de Brigandina\r"
+  - "Capucha de Cuero\r"
+  - "Yelmo de Legionario\r"
+  - "Casco Centelleante\r"
+  - Capucha Inmutable
+  namesFilePath: 
+  fileName: HeadNames
+  ItemCommonDescriptionLibray:
+  - "Una simple capucha de cuero, un elemento b\xE1sico para quienes comienzan su
+    aventura."
+  - "Casco de acero sencillo, proporcionando protecci\xF3n est\xE1ndar para los novatos."
+  - "Capucha acolchada, c\xF3moda y f\xE1cilmente asequible para los reci\xE9n llegados."
+  - "Casco de brigandina, una elecci\xF3n com\xFAn para guerreros intermedios."
+  - "Yelmo de malla, una opci\xF3n ligera y confiable para aventureros principiantes."
+  ItemUnCommonDescriptionLibray:
+  - "Yelmo de cuero reforzado, una mejora sobre la capucha b\xE1sica."
+  - "Casco de placas moderado, equilibrando protecci\xF3n y movilidad."
+  - "Capucha entrelazada con hilo m\xE1gico, proporcionando una defensa mejorada."
+  - "Yelmo de escamas de draco, una opci\xF3n ex\xF3tica y resistente."
+  - "Casco de \xE9bano, una elecci\xF3n avanzada para guerreros experimentados."
+  ItemRareDescriptionLibray:
+  - "Yelmo centelleante de la esfera estelar, con destellos m\xE1gicos y una s\xF3lida
+    protecci\xF3n."
+  - Casco encantado de obsidiana, proporcionando defensa formidable contra diversas
+    amenazas.
+  - "Capucha de la sombra serpentina, otorgando invisibilidad moment\xE1nea en entornos
+    oscuros."
+  - Yelmo de jade celestial, fusionando elegancia y resistencia.
+  - "Casco de drag\xF3n fundido, forjado con escamas de drag\xF3n para una defensa
+    extraordinaria."
+  ItemEpicDescriptionLibray:
+  - Yelmo del maestro de las tormentas, con control sobre el clima y una defensa
+    sin igual.
+  - "Casco de la quimera arcana, confiriendo habilidades \xFAnicas y resistencia
+    sobrenatural."
+  - "Capucha del vidente dimensional, que permite vislumbrar a trav\xE9s de dimensiones."
+  - "Yelmo de la llama eterna, ardiendo con un fuego m\xEDstico y poder m\xE1gico."
+  - "Casco del guardi\xE1n astral, fusionando la protecci\xF3n celestial con conocimientos
+    c\xF3smicos."

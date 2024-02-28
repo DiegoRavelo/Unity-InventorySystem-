@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f78543c4d543449982690086e393a1, type: 3}
+  m_Name: ChestDataBase
+  m_EditorClassIdentifier: 
+  ItemIconLibrary:
+  - {fileID: 21300000, guid: 4b0cd714400d60440979cac53d3a85ef, type: 3}
+  - {fileID: 21300000, guid: 75c37aa461c57bb45818b98232037608, type: 3}
+  - {fileID: 21300000, guid: df8f2c661a856274d9759b39425fe4f7, type: 3}
+  - {fileID: 21300000, guid: 9207764aeff5c0641b9473ed7dd87b9b, type: 3}
+  - {fileID: 21300000, guid: 6cbcfce1c722d8a4195d315dfdc43087, type: 3}
+  - {fileID: 21300000, guid: bf6e61a8e27656649a6681780d59000a, type: 3}
+  - {fileID: 21300000, guid: d8494e60e26a50441b17556934da9eca, type: 3}
+  - {fileID: 21300000, guid: c213f4ef89b3788429935b27e72ba6ac, type: 3}
+  - {fileID: 21300000, guid: f3468d65967e61040a977d1a19e556a8, type: 3}
+  - {fileID: 21300000, guid: a7d28a264fcfac34bb45280b64f7e09d, type: 3}
+  - {fileID: 21300000, guid: f1609b80a42096d409a862efde5404ef, type: 3}
+  - {fileID: 21300000, guid: 87879395f4535ad469d6be28fd7808d9, type: 3}
+  - {fileID: 21300000, guid: 9017564c1e46a724cb49a43508730fc3, type: 3}
+  - {fileID: 21300000, guid: 1df8b81d4c45cfe4caf607022494f45f, type: 3}
+  - {fileID: 21300000, guid: 1a376cbca3e4c74468c46ed6ea90fd74, type: 3}
+  - {fileID: 21300000, guid: d16b76af5671897418906c3f6696ae69, type: 3}
+  - {fileID: 21300000, guid: 144111a8d09d0474fb12789ce16f87ad, type: 3}
+  - {fileID: 21300000, guid: f1f48c52585687e468e245e0a075dd4b, type: 3}
+  - {fileID: 21300000, guid: 12a9e547af4a0e04dab4266e621cfed2, type: 3}
+  - {fileID: 21300000, guid: aff6d1e43d3feb643816771dbf3367fa, type: 3}
+  - {fileID: 21300000, guid: 2879ad0db4c862e44976d78e664297d5, type: 3}
+  - {fileID: 21300000, guid: 0d8d8aeb6096e184ab3501f39a89129a, type: 3}
+  - {fileID: 21300000, guid: eca402ded414e2041abe4846c23df6e3, type: 3}
+  - {fileID: 21300000, guid: c4c427f8c3532264d8057d52679b524b, type: 3}
+  - {fileID: 21300000, guid: ec01db62eb83f9945bedfa88f2b674ef, type: 3}
+  - {fileID: 21300000, guid: 06cd9e3cdc6781f40a150e749b974aed, type: 3}
+  - {fileID: 21300000, guid: 123fd75ad8f09ac4fa5e2845412f09d5, type: 3}
+  - {fileID: 21300000, guid: 568e29a6f2488b143a15458695195929, type: 3}
+  - {fileID: 21300000, guid: dc1d6d6efb47fc941a575a8c498602fa, type: 3}
+  - {fileID: 21300000, guid: ccb2fd56f208b3544bd00e902e5aeff2, type: 3}
+  - {fileID: 21300000, guid: 4e4e6378fd8bed542b6d25376fc0b3b3, type: 3}
+  - {fileID: 21300000, guid: cc46c70e518681c4a83b3040c0d6a9ce, type: 3}
+  - {fileID: 21300000, guid: 604d631371957c746bf81ec7c27f7f55, type: 3}
+  - {fileID: 21300000, guid: 97d3c266a5c249249b65147f747de63d, type: 3}
+  - {fileID: 21300000, guid: 5cb813d3177a10c4489b6e98cfef5014, type: 3}
+  - {fileID: 21300000, guid: efca5ae6d741f05498b524e44ecd3811, type: 3}
+  - {fileID: 21300000, guid: 37f37ddc3a4ebfa439818351754475af, type: 3}
+  - {fileID: 21300000, guid: b606dd6d4d13a3f458d3449f5464036a, type: 3}
+  - {fileID: 21300000, guid: f5e862fcb7d2eb24f89b5799958602dc, type: 3}
+  - {fileID: 21300000, guid: dc4292dfdf0cbd647b2ef37eb7c760b3, type: 3}
+  - {fileID: 21300000, guid: 9e5d4011a01e4344b82fc4c261465e7a, type: 3}
+  - {fileID: 21300000, guid: 0b3e2582263bbb7448e943b9ea9b2a99, type: 3}
+  - {fileID: 21300000, guid: 0f664fd4f5edfec4c975893278c20806, type: 3}
+  - {fileID: 21300000, guid: fcc5f270d1c89664a9fa85a1ef87f819, type: 3}
+  - {fileID: 21300000, guid: cfefbcf0574f66f4cabc8992db9b79a9, type: 3}
+  - {fileID: 21300000, guid: 65d6033e70f5cc64eb1e85a74fd3c023, type: 3}
+  - {fileID: 21300000, guid: 8326fbfa32f4d5d4fa32ba46df5cda55, type: 3}
+  - {fileID: 21300000, guid: f64a90d6dfcf14c4084fe242fccca00e, type: 3}
+  - {fileID: 21300000, guid: f5a9b6172b261614180ad4aa00f200dc, type: 3}
+  - {fileID: 21300000, guid: ec64506e2997af640a7e092b106e6cba, type: 3}
+  ItemNamesLibrary: []
+  namesFilePath: 
+  fileName: ChestNames
+  ItemCommonDescriptionLibray:
+  - "Una armadura b\xE1sica, compuesta por peque\xF1as piezas de malla unidas. Aunque
+    muestra signos de uso, sigue siendo confiable."
+  - "Hecha de cuero grueso y reforzada con placas adicionales, esta armadura proporciona
+    una protecci\xF3n decente sin comprometer la movilidad."
+  - " Un conjunto simple de placas met\xE1licas que cubre el pecho. Ideal para aquellos
+    que comienzan su entrenamiento como soldados."
+  - "Una armadura convencional hecha de placas de metal. Ofrece una s\xF3lida defensa
+    sin ser demasiado llamativa."
+  - "Dise\xF1ada para proteger a los aprendices de caballeros, esta pechera es ligera
+    pero efectiva, perfecta para quienes reci\xE9n comienzan su viaje."
+  ItemUnCommonDescriptionLibray:
+  - Una armadura que absorbe la luz, otorgando al usuario una presencia sigilosa.
+    Ideal para aquellos que prefieren operar desde las sombras.
+  - "Con grabados intrincados y refuerzos adicionales, esta armadura proporciona
+    una protecci\xF3n superior sin sacrificar la elegancia."
+  - "Adornada con runas m\xEDsticas, esta armadura concede habilidades m\xE1gicas
+    menores mientras brinda una defensa s\xF3lida."
+  - "Forjada con diamantes fundidos, esta armadura no solo ofrece una resistencia
+    excepcional, sino que tambi\xE9n refleja la luz de manera deslumbrante."
+  - "Inspirada en la m\xEDtica ave F\xE9nix, esta pechera tiene la capacidad de regenerarse
+    lentamente, proporcionando una ventaja t\xE1ctica \xFAnica."
+  ItemRareDescriptionLibray:
+  - "Con incrustaciones de escamas de drag\xF3n que resplandecen, esta armadura no
+    solo ofrece una gran protecci\xF3n sino que tambi\xE9n emana una presencia imponente."
+  - " Dise\xF1ada con compartimentos t\xE1cticos y ajustes personalizados, esta armadura
+    permite al usuario adaptarse r\xE1pidamente a diferentes situaciones de combate."
+  - "Capaz de controlar y resistir los elementos, esta armadura ofrece protecci\xF3n
+    contra ataques m\xE1gicos y f\xEDsicos, convirtiendo al usuario en un maestro
+    de las tormentas."
+  - Hecha con materiales lunares raros, esta armadura otorga habilidades aumentadas
+    bajo la luz de la luna, brindando una ventaja nocturna.
+  - Esta pechera tiene la capacidad de desorientar a los enemigos cercanos, creando
+    ilusiones que distraen y confunden.
+  ItemEpicDescriptionLibray:
+  - Forjada con la esencia de los dioses, esta armadura otorga una resistencia sobrenatural
+    y habilidades divinas a su portador.
+  - "Con fragmentos de estrellas incrustados, esta armadura permite al usuario manipular
+    la energ\xEDa estelar para lanzar poderosos hechizos."
+  - "Una armadura que permite al usuario ralentizar el tiempo a su alrededor, proporcionando
+    una velocidad de reacci\xF3n asombrosa."
+  - "Capaz de desplazarse entre dimensiones, esta armadura ofrece una capacidad \xFAnica
+    para evadir ataques y sorprender a los enemigos."
+  - Esta armadura legendaria confiere el poder de crear y controlar la materia, otorgando
+    al usuario un dominio casi divino sobre su entorno.

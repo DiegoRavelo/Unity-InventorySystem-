@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f78543c4d543449982690086e393a1, type: 3}
+  m_Name: BootsDataBase
+  m_EditorClassIdentifier: 
+  ItemIconLibrary:
+  - {fileID: 21300000, guid: a82ee3e85d8d4374a9b0a5a81625500c, type: 3}
+  - {fileID: 21300000, guid: a82ee3e85d8d4374a9b0a5a81625500c, type: 3}
+  - {fileID: 21300000, guid: 3852d94e2e38f8741bec055208462005, type: 3}
+  - {fileID: 21300000, guid: c70f88d894563a14f858c5745d1146ee, type: 3}
+  - {fileID: 21300000, guid: 1c623e7b2e57759409e7b8ac219038c4, type: 3}
+  - {fileID: 21300000, guid: e3822321edd2d1f4da416989c46b1eca, type: 3}
+  - {fileID: 21300000, guid: 7634136a54311844588ad693f4f7b99f, type: 3}
+  - {fileID: 21300000, guid: 99831912e8b2c9a44a5bae5c85d85f2d, type: 3}
+  - {fileID: 21300000, guid: b4daf553b498a50468f0233f52c79bbe, type: 3}
+  - {fileID: 21300000, guid: 70c3d5b1964bf45458950038a8e376f3, type: 3}
+  - {fileID: 21300000, guid: bcf350f00b042bf4db25b7c544fdda38, type: 3}
+  - {fileID: 21300000, guid: a6fd5948a40c92642b48a95111c461c1, type: 3}
+  - {fileID: 21300000, guid: 61be91fba50515040a099dbd76e33f02, type: 3}
+  - {fileID: 21300000, guid: 575021014be2b814e88aed3c0375e54e, type: 3}
+  - {fileID: 21300000, guid: d90754b6e9d948441be412d2f63d1279, type: 3}
+  - {fileID: 21300000, guid: f379aacc7c19a0847b984758d43ed35b, type: 3}
+  - {fileID: 21300000, guid: 0d6f381371082244da67e7a3f5f59db1, type: 3}
+  - {fileID: 21300000, guid: 0417cc5d021305242adbde952638762d, type: 3}
+  - {fileID: 21300000, guid: d2dcf736f34e98540a411470f1d3185c, type: 3}
+  - {fileID: 21300000, guid: 3aca5abc289715444b9fbda92f099baf, type: 3}
+  - {fileID: 21300000, guid: 3dbd84f59270cad46bece6c3de97cb7a, type: 3}
+  - {fileID: 21300000, guid: 8fa6ca4af4f55414295d393025f02234, type: 3}
+  - {fileID: 21300000, guid: 48739d5f5f23eb84980ec1754e9d454a, type: 3}
+  - {fileID: 21300000, guid: ca66abb45d702784d9bcd291ed2ddb63, type: 3}
+  - {fileID: 21300000, guid: 55c03360df81c12439173977fd9336ea, type: 3}
+  - {fileID: 21300000, guid: 20ce0418118461e4082082ebaeefbf9a, type: 3}
+  - {fileID: 21300000, guid: 652131c2dfc5e804e93b031d84a37e50, type: 3}
+  - {fileID: 21300000, guid: a0d6449e387b0814c8efea17ee0998b5, type: 3}
+  - {fileID: 21300000, guid: 33d827b963d4af64eb81133a337d97b9, type: 3}
+  - {fileID: 21300000, guid: 0d34ba5020a6ccd4b86e0cc11abfa208, type: 3}
+  - {fileID: 21300000, guid: cd174280df12c9147a71573bff1ec007, type: 3}
+  - {fileID: 21300000, guid: 6be0b18ed0e99a94ba10858265d2b0a1, type: 3}
+  - {fileID: 21300000, guid: e91cb1be524785546b7aa3b556ac5243, type: 3}
+  - {fileID: 21300000, guid: 6236dc41923b5f34b9fbb3dec6e92aec, type: 3}
+  - {fileID: 21300000, guid: 11dcf9efef2f6f946a3a85ba6cc941a8, type: 3}
+  - {fileID: 21300000, guid: 326389bfd253d794a857419afe929356, type: 3}
+  - {fileID: 21300000, guid: fd65fc36e7fea084ba956c0d4e6b7353, type: 3}
+  - {fileID: 21300000, guid: 7fa5256c2c412cb47896163f87e9382a, type: 3}
+  - {fileID: 21300000, guid: 9c5b30e9de0086649b9384c84a44814c, type: 3}
+  - {fileID: 21300000, guid: 1e647e91ced29f04c96762dabde01dff, type: 3}
+  - {fileID: 21300000, guid: 8bb0a556b35ce8f44a693ab35074f3b6, type: 3}
+  - {fileID: 21300000, guid: 4ac892e167b579947b7a90ab636af555, type: 3}
+  - {fileID: 21300000, guid: c00a8a1b8bc83a546bf7b3a230d70e81, type: 3}
+  - {fileID: 21300000, guid: 96da0146d09ede94f884b5ac9e6c378a, type: 3}
+  - {fileID: 21300000, guid: 6315a99a519eb6144b69008b382b5e36, type: 3}
+  - {fileID: 21300000, guid: ce36c859e6840444bbf4e1445ae17ef3, type: 3}
+  - {fileID: 21300000, guid: 85ad709a7ff744c469eb6b38548996b1, type: 3}
+  - {fileID: 21300000, guid: 6914e7ffc2e8cb34e9c2b409ef0df97d, type: 3}
+  - {fileID: 21300000, guid: b4cada79e1361974a87624ecf9309181, type: 3}
+  - {fileID: 21300000, guid: b25d836e0b8506846a5843eb21382634, type: 3}
+  - {fileID: 21300000, guid: 3e694384beef24346b4956928ec3bdb4, type: 3}
+  ItemNamesLibrary:
+  - "Botas de Cuero Resistentes\r"
+  - "Escarpines del Viajero\r"
+  - "Grebas del Velocista\r"
+  - "Botines del Ladr\xF3n \xC1gil\r"
+  - "Botas del Drag\xF3n Volador\r"
+  - "Zapatillas de Sombra Sigilosa\r"
+  - "Botas del Caminante Dimensional\r"
+  - "Escarpines del Mago Veloz\r"
+  - "Grebas del Explorador Intr\xE9pido\r"
+  - "Botines del Guerrero Nocturno\r"
+  - "Botas del Jinete Veloz\r"
+  - "Zapatillas de la Quimera Saltarina\r"
+  - "Botas del Guardi\xE1n del Bosque\r"
+  - "Escarpines de Escamas Plateadas\r"
+  - "Botas del Merodeador Silencioso\r"
+  - "Botines del Elemental de la Tierra\r"
+  - "Grebas del Alquimista Errante\r"
+  - "Zapatillas del Hechicero Maestro\r"
+  - "Botas del Errante Cazador\r"
+  - Escarpines del Asesino Furtivo
+  fileName: BootsNames
+  ItemCommonDescriptionLibray:
+  - Botas simples pero duraderas, perfectas para quienes comienzan su viaje.
+  - "Escarpines b\xE1sicos que ofrecen comodidad y protecci\xF3n est\xE1ndar."
+  - "Grebas convencionales que brindan una base s\xF3lida para la movilidad."
+  - Botines comunes, adecuados para cualquier aventurero principiante.
+  ItemUnCommonDescriptionLibray:
+  - Botas mejoradas que proporcionan velocidad adicional en terrenos variados.
+  - "Zapatillas de calidad superior, resistentes y c\xF3modas para largas traves\xEDas."
+  - "Botas de dise\xF1o elegante con encantamientos para una mayor agilidad."
+  - Escarpines que destacan por su durabilidad, ideales para exploradores en ascenso.
+  - "Grebas mejoradas con detalles \xFAnicos, indicativas de habilidad y maestr\xEDa."
+  ItemRareDescriptionLibray:
+  - "Botines excepcionales con refuerzos m\xE1gicos que mejoran la resistencia."
+  - Botas raras forjadas con materiales de alta calidad y detalles ornamentados.
+  - "Zapatillas que emanan un resplandor m\xEDstico, otorgando poderes adicionales."
+  - Escarpines ornamentados con gemas preciosas para una movilidad sobresaliente.
+  - "Botas \xE9lficas que combinan elegancia y funcionalidad en una movilidad superior."
+  ItemEpicDescriptionLibray:
+  - "Zapatillas que canalizan energ\xEDa celestial, otorgando una movilidad divina."
+  - "Botas legendarias con grabados que narran las haza\xF1as de h\xE9roes antiguos."
+  - "Escarpines \xE9picos forjados con materiales de otro mundo, proporcionando movilidad
+    inigualable."
+  - Botas que emiten un resplandor radiante, indicando la grandeza del portador.
+  - "Botines m\xE1gicos de titanes que aumentan la velocidad y agilidad del usuario."
+  - "Botines \xE9picos imbuidos con la esencia de un f\xE9nix, brindando resistencia
+    a las llamas."

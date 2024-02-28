@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f78543c4d543449982690086e393a1, type: 3}
+  m_Name: BowDataBase
+  m_EditorClassIdentifier: 
+  ItemIconLibrary:
+  - {fileID: 21300000, guid: 656fd0150902d7649ba2dabc3c4e68e3, type: 3}
+  - {fileID: 21300000, guid: 650725e3bb6f8774f9babee6e7ff977a, type: 3}
+  - {fileID: 21300000, guid: 84df63344073db24e83ee5628fbbc23d, type: 3}
+  - {fileID: 21300000, guid: b720e31a41dcb9140865a5865b3e130d, type: 3}
+  - {fileID: 21300000, guid: 43a34dd3a6dc7d74fab3d8ef3d65e34f, type: 3}
+  - {fileID: 21300000, guid: 2f81531ad2f4457479ca48d6438f2fe2, type: 3}
+  - {fileID: 21300000, guid: 5d1676c339b577442a778b750079e471, type: 3}
+  - {fileID: 21300000, guid: 21cdfe0315c59c045b55fd9248e807aa, type: 3}
+  - {fileID: 21300000, guid: ee8628fb64434fe4a891bf5b257163ed, type: 3}
+  - {fileID: 21300000, guid: 9553de0259b1ecb43a03b9d17165ebaf, type: 3}
+  - {fileID: 21300000, guid: a6780e4d472d8744187ec33d8b38e974, type: 3}
+  - {fileID: 21300000, guid: f122f416ed6652049acc9f181b939a5a, type: 3}
+  - {fileID: 21300000, guid: 7e97a29f19eb19d479accb642a82de02, type: 3}
+  - {fileID: 21300000, guid: db5d440f49699304b882b03529a00169, type: 3}
+  - {fileID: 21300000, guid: f9c6c9a1b874ef943bbe4d5ee173805c, type: 3}
+  - {fileID: 21300000, guid: f9c6c9a1b874ef943bbe4d5ee173805c, type: 3}
+  - {fileID: 21300000, guid: c0dc4838e96277243942120993bdf2a4, type: 3}
+  - {fileID: 21300000, guid: 5a53ff9c13fc97b45b7dc8ba08c961ce, type: 3}
+  - {fileID: 21300000, guid: 9509e59b0658e8c49b1810efa0278b0b, type: 3}
+  - {fileID: 21300000, guid: d3e4776a3a015434fa34e00df49e44cc, type: 3}
+  - {fileID: 21300000, guid: 1c43cb695e9f99f4b94b095b446e2a33, type: 3}
+  - {fileID: 21300000, guid: 29f8750f1177fe44c809d50b47d2c30a, type: 3}
+  - {fileID: 21300000, guid: b0c2f6cfc7ae58245a717bb543f890a4, type: 3}
+  - {fileID: 21300000, guid: f1414aff44acb074e860dbc9512a6e29, type: 3}
+  - {fileID: 21300000, guid: f927f0f066bd5ef459dfefd4e6f9c7fd, type: 3}
+  - {fileID: 21300000, guid: 8e0c3471a57f7c848ac7ef9e93b77357, type: 3}
+  - {fileID: 21300000, guid: a9ddfba336f7dc842ab17e9302cc32e0, type: 3}
+  - {fileID: 21300000, guid: f0d23ecf67e3eeb4e949deb05893041d, type: 3}
+  - {fileID: 21300000, guid: 321544c9a12c8f242a014c79390eedfe, type: 3}
+  - {fileID: 21300000, guid: 5232e1aec9354b44f946033eca960201, type: 3}
+  - {fileID: 21300000, guid: e343d8672f3d3f34eb482d2f19e9b2c9, type: 3}
+  - {fileID: 21300000, guid: 912a46767bae12b459558900e4f0efaa, type: 3}
+  - {fileID: 21300000, guid: 7221d501f5663094cb4e5e5c8b6d8ed6, type: 3}
+  - {fileID: 21300000, guid: 53e537a30891b344eb93b116ca97d3fa, type: 3}
+  - {fileID: 21300000, guid: 6263b2e9f1cdf7d46b09e1b9f1ce864b, type: 3}
+  - {fileID: 21300000, guid: 69ff632816c8ee34184aabb9d371be95, type: 3}
+  - {fileID: 21300000, guid: b0a7617b8a67d7a4586478c9d10bc139, type: 3}
+  - {fileID: 21300000, guid: 7c28b3ad3352c3643bcc8b846f0de328, type: 3}
+  - {fileID: 21300000, guid: 679e746b8639182479cc0efa7c07bb8f, type: 3}
+  - {fileID: 21300000, guid: 8b977add40feefd459202bf23efa2df9, type: 3}
+  - {fileID: 21300000, guid: c6a549b69dff71844ad80bb2c452896b, type: 3}
+  - {fileID: 21300000, guid: 3fcce5d8a0b16b848b823e0f58ffc1d4, type: 3}
+  - {fileID: 21300000, guid: c45e3edf1ed07b244a40f927a10c8f45, type: 3}
+  - {fileID: 21300000, guid: cb9d74ea731799d4399a2d7dda1a1d51, type: 3}
+  - {fileID: 21300000, guid: 97f9702948658b1469b59f2183e1cb70, type: 3}
+  - {fileID: 21300000, guid: 8be253c71c016b0478b5478f616b669e, type: 3}
+  - {fileID: 21300000, guid: d0d948252087ffb4da78faa20d2f3010, type: 3}
+  - {fileID: 21300000, guid: 5adc471a5ed8b334aafd5e3355d2e251, type: 3}
+  - {fileID: 21300000, guid: 39e20ff9bee6f984994c9fe8b9362f50, type: 3}
+  - {fileID: 21300000, guid: df76cf8682ada014ba041c86ab573bf4, type: 3}
+  - {fileID: 21300000, guid: 3d062089bc1ea614f91cdcfbebf9a8df, type: 3}
+  ItemNamesLibrary:
+  - "Flecha del Crep\xFAsculo\r"
+  - "Susurros de la Selva\r"
+  - "Viento Estelar\r"
+  - "Sombra del Arquero\r"
+  - "Llanto del Lobo\r"
+  - "Aurora \xC9lfica\r"
+  - "Espina del Drag\xF3n\r"
+  - "Cazador de Sombras\r"
+  - "Centelleo Lunar\r"
+  - "Estirpe del F\xE9nix\r"
+  - "Ruise\xF1or del Bosque\r"
+  - "Alba de \xC9bano\r"
+  - "Arco del Destino\r"
+  - "Susurro del Silencio\r"
+  - "Saeta del Alba\r"
+  - "Ojo del Horizonte\r"
+  - "Lamento del Cuervo\r"
+  - "Arco de la Noche Eterna\r"
+  - "Trueno del Cazador\r"
+  - Eco del Bosque Profundo
+  namesFilePath: 
+  fileName: BowNames
+  ItemCommonDescriptionLibray:
+  - Un arco simple pero confiable, ideal para aprendices.
+  - "Un arco com\xFAn, f\xE1cil de manejar y ampliamente utilizado por arqueros principiantes."
+  - "Arco b\xE1sico con madera resistente, perfecto para iniciarse en el arte del
+    tiro con arco."
+  - "Este arco est\xE1ndar es la elecci\xF3n habitual para los arqueros novatos."
+  - "Un arco convencional, f\xE1cil de encontrar y vers\xE1til en combate."
+  ItemUnCommonDescriptionLibray:
+  - "Arco mejorado con detalles artesanales, proporcionando mayor precisi\xF3n."
+  - "Un arco m\xE1s refinado, con detalles que lo distinguen de los modelos b\xE1sicos."
+  - "Este arco poco com\xFAn destaca por su elegancia y dise\xF1o aerodin\xE1mico."
+  - Arco mejorado con materiales de calidad, proporcionando un rendimiento superior.
+  - "Un arco poco com\xFAn, apreciado por su equilibrio y potencia."
+  ItemRareDescriptionLibray:
+  - "Un arco raro, forjado con madera ex\xF3tica que potencia su alcance y fuerza."
+  - "Arco raro con grabados m\xEDsticos, otorgando una conexi\xF3n especial con la
+    naturaleza."
+  - "Este arco inusual presenta un dise\xF1o \xFAnico y materiales de alta calidad."
+  - "Arco raro reforzado con hilos m\xE1gicos, aumentando la velocidad de las flechas."
+  - Un arco raro, con incrustaciones de gemas que mejoran su eficacia en combate.
+  ItemEpicDescriptionLibray:
+  - "Un arco \xE9pico imbuido con magia antigua, capaz de lanzar flechas elementales."
+  - "Arco \xE9pico hecho con madera de un \xE1rbol ancestral, canalizando la fuerza
+    de la naturaleza."
+  - "Este arco \xFAnico y \xE9pico tiene la capacidad de doblar el tiempo al ser
+    disparado."
+  - "Arco \xE9pico con runas inscritas, otorgando habilidades mejoradas al arquero."
+  - "Un arco \xE9pico legendario, forjado por un maestro armero y imbuido con poder
+    divino."

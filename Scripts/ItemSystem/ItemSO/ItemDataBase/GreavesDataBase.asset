@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f78543c4d543449982690086e393a1, type: 3}
+  m_Name: GreavesDataBase
+  m_EditorClassIdentifier: 
+  ItemIconLibrary:
+  - {fileID: 21300000, guid: e9617d6a135c96f429abee065998ed3d, type: 3}
+  - {fileID: 21300000, guid: 0541d9e307368f640baab73b3b38a362, type: 3}
+  - {fileID: 21300000, guid: 8ef28a3ed4d3b5a44bc289f8f94fedad, type: 3}
+  - {fileID: 21300000, guid: 7a77013d07edb6b4e98d291f6cd1928d, type: 3}
+  - {fileID: 21300000, guid: edde87a0b93b3674da558a39c37f11a5, type: 3}
+  - {fileID: 21300000, guid: e905f0f00a6b659419402cea0d39a167, type: 3}
+  - {fileID: 21300000, guid: 6c3f0c0d12da1f8448f54ec359f8362b, type: 3}
+  - {fileID: 21300000, guid: 64c3b8448ab25474aaa23ed07f4211df, type: 3}
+  - {fileID: 21300000, guid: b80e9dd14e8c6164da1e13326f7434c4, type: 3}
+  - {fileID: 21300000, guid: ddd29a70b01d9d64881ee2792274a1ec, type: 3}
+  - {fileID: 21300000, guid: 02a86bd6217a71443a842467b38b11a6, type: 3}
+  - {fileID: 21300000, guid: b7c439bd15ee88840a7ba99297cd29d8, type: 3}
+  - {fileID: 21300000, guid: 4c5b6ab3fc96a26498d847bd60b873d2, type: 3}
+  - {fileID: 21300000, guid: a0f2518dbf3ed904596ac29536bf51de, type: 3}
+  - {fileID: 21300000, guid: 87f8c043d4aae6b42b8c745e8def9301, type: 3}
+  - {fileID: 21300000, guid: cf389658a807857499620c09d77df2ff, type: 3}
+  - {fileID: 21300000, guid: 6f2ef949e3bfcb5488e8ba94b457d390, type: 3}
+  - {fileID: 21300000, guid: 16a32ddd39d9a0e4690d82998a493893, type: 3}
+  - {fileID: 21300000, guid: c2cc01cd90af49140ba2f28001bf2ed8, type: 3}
+  - {fileID: 21300000, guid: bba9a90f7849ef543b41542694dd1b44, type: 3}
+  - {fileID: 21300000, guid: 5621ea152ddbfd54a891a39ef02a8bdf, type: 3}
+  - {fileID: 21300000, guid: c60e171751eeca74ebd67ab0547ffd77, type: 3}
+  - {fileID: 21300000, guid: 5ca459d145e804f438e4bce7cab85029, type: 3}
+  - {fileID: 21300000, guid: ba95fab319d9f2d45a717f49b3997949, type: 3}
+  - {fileID: 21300000, guid: d44af497e3cd441449f4041f2db1413c, type: 3}
+  - {fileID: 21300000, guid: e57cd015df03aa14cb4ca21f3e0f5238, type: 3}
+  - {fileID: 21300000, guid: 883835a473d45914d9162957f721ae4c, type: 3}
+  - {fileID: 21300000, guid: d0ea1d749fe88134098266b27d078727, type: 3}
+  - {fileID: 21300000, guid: c15945ffafc445840bdeab204ca85f4a, type: 3}
+  - {fileID: 21300000, guid: d5eedc3374a7475408194ee5f2650091, type: 3}
+  - {fileID: 21300000, guid: 8c0450a4ea5eeab409e0f72b4f70e689, type: 3}
+  - {fileID: 21300000, guid: fe4ab6b2722186c47bcc1c30639f3d0f, type: 3}
+  - {fileID: 21300000, guid: 3bba9898eaff4a741b81985e215ec85b, type: 3}
+  - {fileID: 21300000, guid: 64f9f0848f9483640be4f56b02690a92, type: 3}
+  - {fileID: 21300000, guid: 8824e70299d74e34bb19cd44ae3f78ec, type: 3}
+  - {fileID: 21300000, guid: 5a22d88a028dd014f92f45d88aafdb3d, type: 3}
+  - {fileID: 21300000, guid: 7ba939688ece2734d9cc475d7620f396, type: 3}
+  - {fileID: 21300000, guid: 19366a661615cf54c8d01c4c4e18d8aa, type: 3}
+  - {fileID: 21300000, guid: c9fd61bbc0e5ca04594f7682b57ba20c, type: 3}
+  - {fileID: 21300000, guid: 2b7b89ad9f0e624459188b3672cb4fa0, type: 3}
+  - {fileID: 21300000, guid: f24f22b7d12820b4a9d50be9e6a4167e, type: 3}
+  - {fileID: 21300000, guid: 8d341721105f5dc4abd342c782f1d147, type: 3}
+  - {fileID: 21300000, guid: bd351109611fed84490ce4bc40bcd63d, type: 3}
+  - {fileID: 21300000, guid: 29ad37ceb1bceee48bccf60d039540eb, type: 3}
+  - {fileID: 21300000, guid: 1c23532c702830642b7959cf03b56d1c, type: 3}
+  - {fileID: 21300000, guid: 844c2b52d05158349bc99d958753f107, type: 3}
+  - {fileID: 21300000, guid: 43508df297d241b4d83a385a6433fb35, type: 3}
+  - {fileID: 21300000, guid: 81279bced2cabe641bec9dd588438d4f, type: 3}
+  - {fileID: 21300000, guid: 0971ccf385aeeaf4393ad9d9683e84fd, type: 3}
+  - {fileID: 21300000, guid: 1524ec1a1e82ddf4eb6aa0da66055aac, type: 3}
+  ItemNamesLibrary: []
+  fileName: GreavesNames
+  ItemCommonDescriptionLibray:
+  - Grebas simples pero duraderas, ideales para aventureros principiantes.
+  - "Pantalones b\xE1sicos que brindan protecci\xF3n est\xE1ndar en cualquier situaci\xF3n."
+  - Musleras convencionales que ofrecen una defensa decente en el campo de batalla.
+  - Calzas comunes, perfectas para aquellos que inician su viaje.
+  ItemUnCommonDescriptionLibray:
+  - "Pantalones de calidad superior, resistentes y confortables para largas traves\xEDas."
+  - "Musleras de dise\xF1o elegante con grabados m\xE1gicos para una defensa mejorada."
+  - Calzas que destacan por su durabilidad, ideales para guerreros en ascenso.
+  - "Grebas mejoradas con detalles \xFAnicos, indicativas de habilidad y maestr\xEDa."
+  ItemRareDescriptionLibray:
+  - Pantalones excepcionales con encantamientos que aumentan la resistencia.
+  - Musleras raras forjadas con materiales de alta calidad y grabados elaborados.
+  - "Calzas que emanan un resplandor m\xEDstico, otorgando poderes adicionales."
+  - "Grebas ornamentadas con gemas preciosas para una protecci\xF3n sobresaliente."
+  - "Pantalones \xE9lficos que fusionan elegancia y funcionalidad en una defensa
+    superior."
+  ItemEpicDescriptionLibray:
+  - "Calzas que canalizan energ\xEDa celestial, otorgando una defensa divina al portador."
+  - "Grebas legendarias con grabados que cuentan las gestas de h\xE9roes antiguos."
+  - "Pantalones \xE9picos forjados con materiales de otro mundo, proporcionando defensa
+    inigualable."
+  - Musleras que emiten un resplandor radiante, indicando la grandeza del portador.
+  - "Calzas m\xE1gicas de titanes que aumentan la agilidad y la resistencia del usuario."

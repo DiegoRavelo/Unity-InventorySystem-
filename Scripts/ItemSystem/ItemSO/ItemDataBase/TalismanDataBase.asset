@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f78543c4d543449982690086e393a1, type: 3}
+  m_Name: TalismanDataBase
+  m_EditorClassIdentifier: 
+  ItemIconLibrary:
+  - {fileID: 21300000, guid: 97ed2b2c830e1c8439660bb91ec33887, type: 3}
+  - {fileID: 21300000, guid: e1cf4d8fbc886f44fb5b7e0b99542aff, type: 3}
+  - {fileID: 21300000, guid: f0f9ab1dafe68f745a85b0f423403f90, type: 3}
+  - {fileID: 21300000, guid: 204081fbfb0147a4283a17853f2a9a2a, type: 3}
+  - {fileID: 21300000, guid: 2d439000cfa38b74e98a293c829a3a60, type: 3}
+  - {fileID: 21300000, guid: 7e28dc982fd480343bcb951e7be34d4e, type: 3}
+  - {fileID: 21300000, guid: 6bafdc9bc1e6b1549bedd69d638db171, type: 3}
+  - {fileID: 21300000, guid: 9b63036eab2d1a14d8df39bd90960a77, type: 3}
+  - {fileID: 21300000, guid: b347bcb46cd8a754d8ea524b76f6df65, type: 3}
+  - {fileID: 21300000, guid: ea9f20372ba12c641979acfd07f83161, type: 3}
+  - {fileID: 21300000, guid: d93de52f2248f8e4b9c50efb460f7d8c, type: 3}
+  - {fileID: 21300000, guid: 824bdc950c3fd0a428382debbc1e85e8, type: 3}
+  - {fileID: 21300000, guid: ebef71ebaf4f38849a9475fb54510314, type: 3}
+  - {fileID: 21300000, guid: 07f31e372e41d3046a1267ee06f4efcf, type: 3}
+  - {fileID: 21300000, guid: 78935b6354f0ede45b80b3f85abe92a0, type: 3}
+  - {fileID: 21300000, guid: 2a41a260ad66dcb4894624910ed8177a, type: 3}
+  - {fileID: 21300000, guid: 19eb7e10fa6210446940024f22f5fd28, type: 3}
+  - {fileID: 21300000, guid: bea77f6e48c97674f88cc1f00eb40c93, type: 3}
+  - {fileID: 21300000, guid: 7763e406f2c9f6142a9caafc825290cb, type: 3}
+  - {fileID: 21300000, guid: e083e2d5f188f3b4993c00653a612d4e, type: 3}
+  - {fileID: 21300000, guid: 82883b7846f79bd48bce0bbd9d37514e, type: 3}
+  - {fileID: 21300000, guid: d8d6687b3e500ca44bb11b241ba8e4cd, type: 3}
+  - {fileID: 21300000, guid: 8e5546c5f60256e42862336417a0443b, type: 3}
+  - {fileID: 21300000, guid: e4ff90c6a9bde514b87a1fc23e316a4c, type: 3}
+  - {fileID: 21300000, guid: 42221e98651fa2c43affddfe466bc7c3, type: 3}
+  - {fileID: 21300000, guid: c97b1cc3da0bd3c43bdfb209eb0331e5, type: 3}
+  - {fileID: 21300000, guid: 41d9f2e5ecd6b5d4da14e2d4b2a98445, type: 3}
+  - {fileID: 21300000, guid: 5f0e112c84fd7a548ab7eeeb6b0dfa6b, type: 3}
+  - {fileID: 21300000, guid: 9512949234a315e46b2f1e1c58acd515, type: 3}
+  - {fileID: 21300000, guid: 306c483bde21d814882ed6194b8df669, type: 3}
+  - {fileID: 21300000, guid: 5921fb5eb76124a4cb110c9ccb39f0ea, type: 3}
+  - {fileID: 21300000, guid: 463dcb67c9a007a4c99527158c821e3d, type: 3}
+  - {fileID: 21300000, guid: ea22fac4e8881804ba142cd07eb64f40, type: 3}
+  - {fileID: 21300000, guid: f2b2c4f95db59e74a867517f0d80c79a, type: 3}
+  - {fileID: 21300000, guid: ff7cd3e921ea69d4db766e4f1b9d4e00, type: 3}
+  - {fileID: 21300000, guid: 1c3faa15a64f8e44698d79f4a1540ab8, type: 3}
+  - {fileID: 21300000, guid: fad5083d7760a2743a9a21a2b089f199, type: 3}
+  - {fileID: 21300000, guid: 90af7ea10689ef845aeaba6dc9244226, type: 3}
+  - {fileID: 21300000, guid: 70d7ae40f23daa34c85423e992bb5837, type: 3}
+  - {fileID: 21300000, guid: f4b8ae29186500c4f9eee57a5a8969f1, type: 3}
+  - {fileID: 21300000, guid: b103cd468c0136643a19dfd11712df72, type: 3}
+  - {fileID: 21300000, guid: b7cfde725e6118047bb4b48ef520a6dc, type: 3}
+  - {fileID: 21300000, guid: 3583fe0e4220d984bb7e6631fcb82cfa, type: 3}
+  - {fileID: 21300000, guid: 9be1a302ab236d94896def4ad2610cb8, type: 3}
+  - {fileID: 21300000, guid: 778fef1db9b1acc46b1f088b1e200319, type: 3}
+  - {fileID: 21300000, guid: 6bef908d17198de4497e618526789ea0, type: 3}
+  - {fileID: 21300000, guid: 607c31769c29bc647a100f2bb8bfa7ac, type: 3}
+  - {fileID: 21300000, guid: 96a5efaf6be48a448b68bb93974e48e5, type: 3}
+  - {fileID: 21300000, guid: d239cf9bc371a464ca292d33a08d809e, type: 3}
+  - {fileID: 21300000, guid: fcb97937fed19594792d0c0d6fb3746d, type: 3}
+  ItemNamesLibrary:
+  - "Talism\xE1n del Ojo de la Sabidur\xEDa\r"
+  - "Amuleto de la Luna Plateada\r"
+  - "Colgante del Coraz\xF3n Valiente\r"
+  - "Fetiche del Elemental Ardiente\r"
+  - "Reliquia del Drag\xF3n Ancestral\r"
+  - "Talism\xE1n de la Estrella Ca\xEDda\r"
+  - "Amuleto de la Sombra Sigilosa\r"
+  - "Colgante del V\xEDnculo Arcano\r"
+  - "Fetiche del Guardi\xE1n del Bosque\r"
+  - "Reliquia del Espejo Dimensional\r"
+  - "Talism\xE1n del Resplandor Solar\r"
+  - "Amuleto del Viento Cautivo\r"
+  - "Colgante del Alquimista Maestro\r"
+  - "Fetiche de la Serpiente de Cristal\r"
+  - "Reliquia del Mar de las Profundidades\r"
+  - "Talism\xE1n del Ladr\xF3n Astuto\r"
+  - "Amuleto del Guerrero Inmortal\r"
+  - "Colgante del Fuego Purificador\r"
+  - "Fetiche del Libro Arcano\r"
+  - Reliquia de la Llave del Destino
+  fileName: TalismanNames
+  ItemCommonDescriptionLibray:
+  - "Talism\xE1n simple pero efectivo, proporciona un toque de sabidur\xEDa."
+  - "Amuleto b\xE1sico que refleja la luz de la luna, brindando protecci\xF3n espiritual."
+  - "Colgante que fortalece el coraz\xF3n del portador, ideal para los valientes."
+  - "Fetiche que canaliza el poder de un elemental ardiente para protecci\xF3n adicional."
+  - "Reliquia de un drag\xF3n ancestral, otorga fuerza y resistencia b\xE1sicas."
+  ItemUnCommonDescriptionLibray:
+  - "Amuleto con detalles de estrella ca\xEDda, aumenta la suerte del portador."
+  - "Colgante que establece un v\xEDnculo arcano, otorgando habilidades m\xE1gicas
+    leves."
+  - "Fetiche tallado con la esencia del bosque, brinda protecci\xF3n en entornos
+    naturales."
+  - "Reliquia que permite al portador desplazarse entre dimensiones con precauci\xF3n,
+    se vincula permanentemente."
+  ItemRareDescriptionLibray:
+  - Amuleto capturador de vientos cautivos, mejora la velocidad y agilidad.
+  - "Colgante creado por un alquimista maestro, proporciona beneficios \xFAnicos."
+  - Fetiche de la serpiente de cristal, otorga resistencia a venenos y maldiciones.
+  - Reliquia que conecta al portador con el misterioso mar de las profundidades.
+  ItemEpicDescriptionLibray:
+  - "Amuleto de un guerrero inmortal, aumenta la resistencia y regeneraci\xF3n."
+  - "Colgante con fuego purificador, otorga habilidades de purificaci\xF3n y da\xF1o
+    a los no afines."
+  - "Fetiche con un antiguo libro arcano, desbloquea conocimientos m\xE1gicos avanzados."
+  - "Reliquia de la llave del destino, proporciona vislumbres del futuro y capacidad
+    de elecci\xF3n."

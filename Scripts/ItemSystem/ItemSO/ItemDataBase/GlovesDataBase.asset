@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f78543c4d543449982690086e393a1, type: 3}
+  m_Name: GlovesDataBase
+  m_EditorClassIdentifier: 
+  ItemIconLibrary:
+  - {fileID: 21300000, guid: a8e070f9997263c42bc090e1ae255566, type: 3}
+  - {fileID: 21300000, guid: ebaf065bf1978154e988cff6bc98be83, type: 3}
+  - {fileID: 21300000, guid: bcd8d14347ff6284d95b213811fbfd70, type: 3}
+  - {fileID: 21300000, guid: c88b2a94f5b7a744c84128fc8dbdeea4, type: 3}
+  - {fileID: 21300000, guid: d5a07deb71d3b47458a92484e8e9381f, type: 3}
+  - {fileID: 21300000, guid: d6c74da009a04324dad9ab82e6324f0a, type: 3}
+  - {fileID: 21300000, guid: 02f237ce1453a4448a7d7f0298243984, type: 3}
+  - {fileID: 21300000, guid: 9afe9bc328f07df45b5a656d141e3c01, type: 3}
+  - {fileID: 21300000, guid: 13ca1656aa9bc03459d3cd0f9bd0dc1b, type: 3}
+  - {fileID: 21300000, guid: cc1cf9a8c48912b48b279f71fe247ad9, type: 3}
+  - {fileID: 21300000, guid: 0dfb42b291491ee49b621903b0bf6ad3, type: 3}
+  - {fileID: 21300000, guid: b17ef4eb647736642aca25cc3b6bcfea, type: 3}
+  - {fileID: 21300000, guid: 8fbb56f208f72f64c98ce1fa5fae0b25, type: 3}
+  - {fileID: 21300000, guid: 36fcbc7ee8f15bd45b20772d3a67c0fe, type: 3}
+  - {fileID: 21300000, guid: e224b3eec7f42f645b97b2dbdc559c19, type: 3}
+  - {fileID: 21300000, guid: 1b85df248a302414a9ccf93320cec74f, type: 3}
+  - {fileID: 21300000, guid: ded950fb823ed2a4cabfce71f12c08c8, type: 3}
+  - {fileID: 21300000, guid: 8d563b4dcd0742645868c07af78c11a7, type: 3}
+  - {fileID: 21300000, guid: 4827f343937c4504681a27dc61340abf, type: 3}
+  - {fileID: 21300000, guid: ae6479ac650a2394aa58050331bcc34d, type: 3}
+  - {fileID: 21300000, guid: 54226482eee1a954c9f43da2fb007bb1, type: 3}
+  - {fileID: 21300000, guid: deb8169dc7bdc254d9d6ec69733b5919, type: 3}
+  - {fileID: 21300000, guid: 9382fd06b9cc87c4e869713049ecbf03, type: 3}
+  - {fileID: 21300000, guid: ad35c34a7afef6448942b414138ab204, type: 3}
+  - {fileID: 21300000, guid: 8ea79877986efc24f8fcc67f81fd8a3a, type: 3}
+  - {fileID: 21300000, guid: b56bffabf80507042ace8b0ecdeaca8e, type: 3}
+  - {fileID: 21300000, guid: 59eabb7326fa27c4099ec8f212c4e464, type: 3}
+  - {fileID: 21300000, guid: ae754cbc9ff620c45bbcf2311d05f22f, type: 3}
+  - {fileID: 21300000, guid: 665d4120dd69f2243a13fda5681af304, type: 3}
+  - {fileID: 21300000, guid: ad3569610de9dad44a849277dec96823, type: 3}
+  - {fileID: 21300000, guid: e06cceb475a0f8b47923cf521f02b93e, type: 3}
+  - {fileID: 21300000, guid: a39bb38ad55244e4b8ec7134c6d1c4e1, type: 3}
+  - {fileID: 21300000, guid: c74e06e2e3ceaf14e95ab7c0e13d7cab, type: 3}
+  - {fileID: 21300000, guid: 971bfe128049c7f4189ecac1b80531d0, type: 3}
+  - {fileID: 21300000, guid: 1b33bba257f9d234590403b1f55500ca, type: 3}
+  - {fileID: 21300000, guid: 5bd913fea1bf4064597b48e62204be56, type: 3}
+  - {fileID: 21300000, guid: b048a3d6898baf049bb7caca38fb35f6, type: 3}
+  - {fileID: 21300000, guid: 361ce06bbf013d24b9bc54fb054747ca, type: 3}
+  - {fileID: 21300000, guid: f2b8e83f31fbfeb47a6928c5244b69e5, type: 3}
+  - {fileID: 21300000, guid: 945e53d10c595ae43aefec4d42c89dea, type: 3}
+  - {fileID: 21300000, guid: eb9998203bc141745a6e3876e3bef6cd, type: 3}
+  - {fileID: 21300000, guid: c06fe1e3a1cc7da4391977115dc0ea40, type: 3}
+  - {fileID: 21300000, guid: 35cfbb2e7eb74a040b48e86b47d38de5, type: 3}
+  - {fileID: 21300000, guid: d492bb7a2e897e54a84927502e81dede, type: 3}
+  - {fileID: 21300000, guid: 363c7a424bccea14ab8807c72cf29d50, type: 3}
+  - {fileID: 21300000, guid: 8f29aaeaa131bf448af3e56f32da9dc5, type: 3}
+  - {fileID: 21300000, guid: f09cb5b60f3722f4b8a4da9fb5d4e75c, type: 3}
+  - {fileID: 21300000, guid: 9f28b0912861b1647814ff38b232a993, type: 3}
+  - {fileID: 21300000, guid: 2b84fc2abc2080545a47a8e31cbebe9a, type: 3}
+  ItemNamesLibrary: []
+  fileName: GlovesNames
+  ItemCommonDescriptionLibray:
+  - Manoplas sencillas pero resistentes, ideales para guerreros novatos.
+  - "Guantes b\xE1sicos que ofrecen protecci\xF3n est\xE1ndar en combate."
+  - "Garra asequible con un dise\xF1o simple pero efectivo."
+  - "Pu\xF1os comunes, perfectos para aquellos que comienzan su viaje."
+  ItemUnCommonDescriptionLibray:
+  - Guantes mejorados que otorgan destreza y velocidad en la batalla.
+  - Mitones forjados con un material resistente, superiores a lo convencional.
+  - Mitones forjados con un material resistente, superiores a lo convencional.
+  - Garra de aspecto elegante y mayor resistencia que las opciones comunes.
+  - "Manoplas mejoradas con grabados m\xE1gicos para una defensa adicional."
+  - Guantes que destacan por su calidad, ideales para guerreros en ascenso.
+  ItemRareDescriptionLibray:
+  - "Pu\xF1os excepcionales con grabados r\xFAnicos que mejoran la resistencia."
+  - "Mitones de dise\xF1o \xFAnico, forjados por maestros artesanos."
+  - "Garra rara que emana un aura m\xEDstica, otorgando poderes adicionales."
+  - Manoplas ornamentadas con gemas preciosas para una defensa sobresaliente.
+  - "Guantes excepcionales con detalles \xE9lficos, s\xEDmbolo de maestr\xEDa."
+  ItemEpicDescriptionLibray:
+  - "Pu\xF1os \xE9picos imbuidos con la esencia de un drag\xF3n antiguo, otorgando
+    llamas protectoras."
+  - "Mitones que canalizan energ\xEDa celestial, proporcionando una defensa divina."
+  - "Garra legendaria con grabados que cuentan la historia de h\xE9roes pasados."
+  - "Manoplas \xE9picas forjadas con materiales de otro mundo, brindando una defensa
+    inigualable."
+  - "Guantes que emiten una luz resplandeciente, marcando al portador como un campe\xF3n
+    \xE9pico."
+  - "Pu\xF1os m\xE1gicos de titanes que amplifican la fuerza y resistencia del portador."

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f78543c4d543449982690086e393a1, type: 3}
+  m_Name: NecklaceDataBase
+  m_EditorClassIdentifier: 
+  ItemIconLibrary:
+  - {fileID: 21300000, guid: fe6b210100bca5a449a31cecc665635b, type: 3}
+  - {fileID: 21300000, guid: de5bd25aae57a064fb677a0546ec6344, type: 3}
+  - {fileID: 21300000, guid: 1ea3fee1f4aa6ff448beab90bf862f87, type: 3}
+  - {fileID: 21300000, guid: 2d70277ef9a749849b37252e0915eccb, type: 3}
+  - {fileID: 21300000, guid: 5b02713cf2af2f440bc33da26f66c2b0, type: 3}
+  - {fileID: 21300000, guid: d3c456427276a0e44ac59fdb50568310, type: 3}
+  - {fileID: 21300000, guid: a8967660adde7bc40a11fbea220ae0e9, type: 3}
+  - {fileID: 21300000, guid: ea9e8ab6ccf0c38419c63fe7c1c7d469, type: 3}
+  - {fileID: 21300000, guid: 329afc619cbca634ca206bd1220ab681, type: 3}
+  - {fileID: 21300000, guid: a147b78fe1919c84aac342cc2cc6ed53, type: 3}
+  - {fileID: 21300000, guid: a6d1ae1cc0463774e929a68eaeb0cd64, type: 3}
+  - {fileID: 21300000, guid: cabd2764d942aa6408ae86a2ea3d1c33, type: 3}
+  - {fileID: 21300000, guid: 840837ae0e42305449415b944290b372, type: 3}
+  ItemNamesLibrary: []
+  fileName: NecklaceNames
+  ItemCommonDescriptionLibray:
+  - "Collar sencillo pero elegante, simboliza la conexi\xF3n entre seres queridos."
+  - "Colgante b\xE1sico que refleja la luz de la luna, brindando un aura protectora."
+  - "Cadena que representa el valor intr\xE9pido, ideal para los valientes."
+  - "Collar de la llama ardiente, otorga protecci\xF3n contra el fuego."
+  ItemUnCommonDescriptionLibray:
+  - "Collar de la estrella ascendente que augura buena fortuna y \xE9xito."
+  - Amuleta de la sombra profunda, proporciona invisibilidad temporal al portador.
+  - "Colgante que establece un v\xEDnculo espiritual, mejorando las habilidades m\xEDsticas."
+  - "Gargantilla del bosque encantado, brinda protecci\xF3n en entornos naturales."
+  - "Medall\xF3n del portal dimensional, permite viajar entre planos de existencia."
+  ItemRareDescriptionLibray:
+  - " Collar del resplandor solar, otorga resistencia a la luz intensa y curaci\xF3n."
+  - Amuleto del viento susurrante, mejora la agilidad y la velocidad del portador.
+  - "Cadena del alquimista sabio, proporciona beneficios \xFAnicos relacionados con
+    la alquimia."
+  - Gargantilla de la serpiente de cristal, otorga resistencia a venenos y maldiciones.
+  - "Medall\xF3n del mar eterno, permite al portador respirar bajo el agua y controlar
+    criaturas marinas."
+  ItemEpicDescriptionLibray:
+  - "Amuleto del guerrero inquebrantable, aumenta la resistencia y la regeneraci\xF3n."
+  - Gargantilla del fuego interior, otorga habilidades de control del fuego.
+  - "Medall\xF3n con conocimientos avanzados de un libro arcano, desbloquea poderes
+    m\xE1gicos."
+  - Collar de la llave celestial, otorga el conocimiento de abrir portales a otros
+    mundos.
