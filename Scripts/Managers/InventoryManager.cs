@@ -304,7 +304,6 @@ public class InventoryManager : MonoBehaviour
         
     }
     
-    // Hay que convertir este metodo en un diccionario como hice con el otro buenas tarde y tetas
 
     public void DisplayItemInformation(ItemSO itemToDisplay)
     {
